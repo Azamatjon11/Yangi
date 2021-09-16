@@ -1,2 +1,3 @@
 <?php
-echo "Assalomu aleykum";
+echo "Assalomu aleykum";git
+echo"volekum assalom";

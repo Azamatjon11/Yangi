@@ -1,2 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-echo "Assalomu aleykum";
+echo "YOU ARE NOOB";
+?>
+
+</body>
+</html>

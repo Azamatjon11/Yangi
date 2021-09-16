@@ -8,6 +8,10 @@ class practise{
         echo $answer;
         return false;
     }
+
 }
 $practise = new practise();
 $practise->triArea();
+
+
+
